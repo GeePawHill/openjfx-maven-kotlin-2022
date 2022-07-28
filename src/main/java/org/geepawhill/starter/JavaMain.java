@@ -1,4 +1,4 @@
-package org.wtc.starter;
+package org.geepawhill.starter;
 
 import javafx.application.*;
 import javafx.event.*;
@@ -7,7 +7,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.stage.*;
 
-public class Main extends Application {
+public class JavaMain extends Application {
     public static void main(String[] args) {
         launch(args);
     }

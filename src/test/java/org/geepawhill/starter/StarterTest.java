@@ -1,9 +1,9 @@
-package org.wtc.starter;
+package org.geepawhill.starter;
 
 import org.junit.jupiter.api.*;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.assertj.core.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class StarterTest {
 

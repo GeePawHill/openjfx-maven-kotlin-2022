@@ -1,6 +1,8 @@
 module org.wtc {
         requires javafx.controls;
         requires java.desktop;
+        requires kotlin.stdlib;
+        requires tornadofx;
 
-        exports org.wtc.starter;
+        exports org.geepawhill.starter;
         }

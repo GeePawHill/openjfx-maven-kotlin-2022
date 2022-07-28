@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Microtest" type="JUnit" factoryName="JUnit">
     <module name="openjfx-maven-2022" />
-    <option name="PACKAGE_NAME" value="org.wtc" />
+    <option name="PACKAGE_NAME" value="org.geepawhill" />
     <option name="MAIN_CLASS_NAME" value="" />
     <option name="METHOD_NAME" value="" />
     <option name="TEST_OBJECT" value="package" />
